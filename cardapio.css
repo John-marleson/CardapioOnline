@@ -71,5 +71,10 @@ h2{
     border-radius: 10px;
     color: #ffff;
 }
+.btn:hover{
+    background-color: #FFAE00;
+    cursor: pointer;
+    font-weight: bolder;
+}
 
 
